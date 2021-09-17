@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+/* #overlay {
+    background-color: orange;
+    padding: 20px;
+} */
+
+#modal {
+    background-color: orange;
+    padding: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+#overlay {
+    display: none;
+}
